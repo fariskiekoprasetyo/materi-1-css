@@ -1,0 +1,26 @@
+h1{
+    font-family: fantasy;
+    font-size: 100px;
+    font-weight: normal;
+    font-style: italic;
+    color: #1ce21f;
+    text-decoration: none;
+    text-transform: capitalize;
+    text-align: center;
+}
+p{
+    ;
+    line-height: 20px;
+    text-align: justify;
+    text-transform: capitalize;
+    text-indent: 100px;
+}
+a{
+    text-decoration:none;   
+}
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(download\ \(3\).jpg); 
+    background-repeat: no-repeat;
+    background-position:top right ;
+}
